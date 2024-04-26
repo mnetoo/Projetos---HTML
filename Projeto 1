@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atalhos</title>
+
+    <link rel="stylesheet" href="Projeto1.css">
+
+</head>
+
+
+<body>
+
+    <header>
+
+        <h1>Meus Atalhos</h1>
+        <br>
+        <h1 style="font-size: larger;">Lista de Atalhos - Faculdade</h1>
+        <br>
+
+    </header>
+
+<main>
+    <section>
+
+    <div class="center">
+
+<nav>
+    <ul>
+        <li>
+    <img src="https://moodle.c3sl.ufpr.br/pluginfile.php/1/core_admin/logo/0x200/1707849895/moodle-c3sl-novo.png" alt="Logo Moodle" width="150" height="50"><br>
+    <a href="https://moodle.c3sl.ufpr.br/login/index.php" target="_blank"><button>MOODLE</button></a><br>
+    <br></li>
+
+    <li>
+    <img src="farmalg.JPG" alt="Logo Farmalg" width="100" height="50"><br>
+    <a href="http://farmaalg.c3sl.ufpr.br/users/sign_in" target="_blank"><button>FARMALG</button></a><br>
+    <br></li>
+
+    <li>
+    <img src="https://ufprvirtual.ufpr.br/theme/image.php/ufprvirtual/theme_ufprvirtual/1678709585/logo" alt="Logo UFPR" width="100" height="50"><br>
+    <a href="https://ufprvirtual.ufpr.br/my/" target="_blank"><button>UFPR VIRTUAL</button></a><br>
+    <br></li>
+
+    <li>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8El9ay-ffxJvETGylQQ1hG9NfRk_PwR2C9sjzmNm4Dw&s" alt="Logo GIT" width="100" height="50"><br>
+    <a href="https://github.com/" target="_blank"><button>GITHUB</button></a><br>
+    <br></li>
+
+    <li>
+    <img src="c3sl.JPG" alt="Logo DINF" width="100" height="50"><br>
+    <a href="https://webmail.inf.ufpr.br/?_task=mail&_token=Jc6uN02oodKVceRxvZWHXh9kRRzd9azK" target="_blank"><button>C3SL</button></a><br>
+    <br></li>
+
+    <li>
+    <img src="https://siga.ufpr.br/siga/funcoes/imagens/logosiga_transparente_mini_trespontozero.png" alt="Logo SIGA" width="100" height="50"><br>
+    <a href="https://siga.ufpr.br/siga/" target="_blank"><button>SIGA</button></a><br>
+    <br></li>
+
+    </ul>
+</nav>
+
+</div>
+
+</section>
+
+</main>
+
+
+
+<main>
+    <section>
+        <div class="center2">
+        <nav>
+            <ul>
+                <li>
+            <img src="https://static.whatsapp.net/rsrc.php/v3/yq/r/mdQNdcFMi0p.png" alt="Logo Moodle" width="150" height="50"><br>
+            <a href="https://web.whatsapp.com/" target="_blank"><button>WHATSAPP</button></a><br>
+            <br></li>
+        
+            <li>
+            <img src="https://classic.exame.com/wp-content/uploads/2017/08/new-youtube-logo-840x402.jpg?quality=70&strip=info&w=840" alt="Logo Farmalg" width="100" height="50"><br>
+            <a href="https://www.youtube.com/" target="_blank"><button>YOUTUBE</button></a><br>
+            <br></li>
+        
+            <li>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDZEQmQ_mugiy_8D43jj-CkFjKKidLHj0K9jvjvbn&s" alt="Logo UFPR" width="100" height="50"><br>
+            <a href="https://outlook.live.com/mail/0/" target="_blank"><button>OUTLOOK</button></a><br>
+            <br></li>
+        
+            <li>
+            <img src="https://ufprvirtual.ufpr.br/theme/image.php/ufprvirtual/theme_ufprvirtual/1678709585/logo" alt="Logo GIT" width="100" height="50"><br>
+            <a href="https://login.ufpr.br/realms/producao/protocol/openid-connect/auth?client_id=portal-sistemas&scope=openid&response_type=code&redirect_uri=https%3A%2F%2Fsistemas.ufpr.br%2Flogin%2Fcallback" target="_blank"><button>PORTAL SISTEMAS</button></a><br>
+            <br></li>
+        
+            <li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png" alt="Logo DINF" width="100" height="50"><br>
+            <a href="https://www.netflix.com/browse" target="_blank"><button>NETFLIX</button></a><br>
+            <br></li>
+        
+            <li>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0K4cSAD26-D2hHfKTg1rSLFAsmVibgfVvTPPoFmT_&s" alt="Logo SIGA" width="100" height="50"><br>
+            <a href="https://unsplash.com/pt-br" target="_blank"><button>UNSPLASH</button></a><br>
+            <br></li>
+        
+            </ul>
+        </nav>
+    </div>
+    </section>
+</main>
+
+<footer>
+
+    <p>
+        <strong><em>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem omnis quos nisi placeat.</em></strong>
+    </p>
+
+</footer>
+
+
+
+
+
+</body>
+</html>
