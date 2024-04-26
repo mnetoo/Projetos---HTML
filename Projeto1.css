@@ -1,0 +1,74 @@
+        
+body { 
+
+        background-color: white;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    h1 {
+
+        font-size: xx-large;
+        text-align: center;
+        color: black;
+
+    }
+
+
+    a {
+
+        font-size: x-large;
+
+    }
+
+    button {
+
+        color: black;
+        align-self: center;
+        padding-block: calc(5px);
+
+    }
+
+    ul {
+
+        display: flex;
+        justify-content: space-between;
+        padding: 50px;
+        align-self: center;
+    
+
+    }
+
+
+    nav {
+
+        list-style-position: initial;
+
+    }
+
+    .center {
+
+        text-align: center;
+
+    }
+
+    .center2 {
+
+        text-align: center;
+
+    }
+
+    footer {
+
+        color: black;
+        text-align: center;
+
+    }
+
+
+    nav button:hover {
+
+        color: white;
+
+    }
