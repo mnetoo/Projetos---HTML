@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+
+    <link rel="stylesheet" href="Projeto2.css">
+
+</head>
+
+
+
+
+<body>
+
+    <form action="Formulario.html" method="get">
+    <h2>Formulário</h2>
+    <br>
+    <br>
+    <br>
+    <label for="nome">Nome: </label>
+    <input type="text" name="nome" id="nome"><br>
+    <br>
+    <label for="email">Email: </label>
+    <input type="email" name="email" id="email"><br>
+    <br>
+    <label for="senha">Senha: </label>
+    <input type="password" name="senha" id="senha" required><br>
+    <br>
+    <label for="idade">Idade: </label>
+    <input type="number" name="idade" id="idade" min="0" max="100"><br>
+    <br>
+    <label for="ingles">Inglês</label>
+    <input type="checkbox" name="idiomas" id="ingles" value="Inglês"><br>
+
+    <label for="espanhol">Espanhol</label>
+    <input type="checkbox" name="idiomas" id="espanhol" value="Espanhol"><br>
+
+    <label for="frances">Francês</label>
+    <input type="checkbox" name="idiomas" id="frances" value="Francês"><br>
+    <br>
+
+    <input type="radio" name="genero" id="feminino" value="Feminino">
+    <label for="feminino">Feminino</label>
+    <input type="radio" name="genero" id="masculino" value="Masculino">
+    <label for="masculino">Masculino</label><br>
+    
+    <br>
+    <button type="submit">Enviar</button>
+    <button type="reset">Resetar</button>
+    </form>
+
+</body>
+</html>
